@@ -18,14 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: EvalLM
+title: Folk Tales of IoT
 theme: minima
-description: "Interactive Evaluation of Large Language Model Prompts on User-Defined Criteria"
+description: "Understanding the Impact of Stories on Users' Positive and Negative Perceptions of Smart Home IoT Devices"
 
 syscolor: "#555555"
 sysfont: Inter
 video: https://www.youtube-nocookie.com/embed/7hvTnhiCO7Y?si=6I9aqVnatM8VoaJd
 paper: https://arxiv.org/abs/2309.13633
+dataset: https://drive.google.com/file/d/1Jz6RV3OT4D5KIqlGQBXepMCZmnCGuV49/view
 
 plugins:
   - jekyll-feed
