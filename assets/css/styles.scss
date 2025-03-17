@@ -77,12 +77,15 @@ iframe {
 }
 
 .authors-wrapper {
-  text-align: center;
+  display: flex;
+  align-items: flex-start; /* This aligns items to the top */
+  justify-content: center; /* This keeps the horizontal centering */
+  text-align: center; 
 }
 
 .author-container {
   display: inline-block;
-  width: 12%;
+  width: 20%;
   margin: 0 2% 0 2%;
 }
 
