@@ -1,18 +1,12 @@
----
-layout: default
----
+I"³<h2 id="video-presentation">Video Presentation</h2>
 
-## Video Presentation
-
-{% if site.video %}
 <div class="video-wrapper">
-  <iframe src="{{site.video}}&color=white&rel=0&modestlogo=1" id="yt-video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe src="https://www.youtube-nocookie.com/embed/JRPKh_m4vbA?si=NTMQCBBOMUHDv9-V&amp;color=white&amp;rel=0&amp;modestlogo=1" id="yt-video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 </div>
-{% endif %}
 
-------
+<hr />
 
-## Bibtex
+<h2 id="bibtex">Bibtex</h2>
 <pre>
   @inproceedings{zhang-kennedy2025,
     author = {Zhang-Kennedy, Leah and Valiquette, Michaela and Chen, An and Hadan, Hilda and Suh, Sangho},
@@ -25,4 +19,5 @@ layout: default
   }
 </pre>
 
-------
+<hr />
+:ET

@@ -24,8 +24,8 @@ description: "Understanding the Impact of Stories on Users' Positive and Negativ
 
 syscolor: "#555555"
 sysfont: Inter
-video: https://www.youtube-nocookie.com/embed/7hvTnhiCO7Y?si=6I9aqVnatM8VoaJd
-paper: ""
+video: https://www.youtube-nocookie.com/embed/JRPKh_m4vbA?si=NTMQCBBOMUHDv9-V
+paper: "http://sanghosuh.github.io/papers/folktales_chi.pdf"
 dataset: https://drive.google.com/file/d/1Jz6RV3OT4D5KIqlGQBXepMCZmnCGuV49/view
 
 plugins:
